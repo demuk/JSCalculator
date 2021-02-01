@@ -5,3 +5,10 @@ body {
 header {
     text-align: center;
 }
+
+#screen-size {
+    background-color: gray;
+    height: 400px;
+    width: 400px;
+    margin-left: 475px;
+}
