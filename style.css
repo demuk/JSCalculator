@@ -1,6 +1,5 @@
 body {
     background-color: beige;
-    text-align :center;
 }
 
 header {
@@ -12,4 +11,5 @@ header {
     height: 400px;
     width: 400px;
     margin-left: 475px;
+    text-align :center;
 }
